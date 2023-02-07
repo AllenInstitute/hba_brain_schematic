@@ -1,6 +1,10 @@
 # Overview
 
-Resources and example code for using the brain schematic figure in the Allen Human Brain Atlas gene summary page
+Resources and example code for using the brain schematic figure in the Allen Human Brain Atlas gene summary page. The figure consists of 4 panels representing (left to right) :
+- Cerebral Cortex - Lateral
+- Cerebral Cortex - Medial
+- Cerebral Nuclei
+- Hindbrain
 
 ![PYDN gene example](/resources/example_gene_PDYN.png)
 
@@ -12,6 +16,6 @@ We are not currently supporting this code, but simply releasing it to the commun
 
 # Credits
 
-Angela Guillozet-Bongarrts
-David Feng
-Lydia Ng
+- Angela Guillozet-Bongarrts
+- David Feng
+- Lydia Ng
